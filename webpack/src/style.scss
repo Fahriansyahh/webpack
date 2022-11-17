@@ -1,0 +1,9 @@
+$bluee: blue;
+
+$danger: salmon;
+//!harus berada di atas  agar sass di eksekusi sebelum bootsrap di panggil
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    background-color: $bluee;
+}

@@ -1,0 +1,8 @@
+$color: salmon;
+$primary: red;
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    background: $color;
+    text-align: center;
+}

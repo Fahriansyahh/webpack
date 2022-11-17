@@ -1,0 +1,29 @@
+{
+  "name": "pembukaan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^8.8.1",
+    "acorn-import-assertions": "^1.8.0",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "browserslist": "^4.21.4",
+    "buffer-from": "^1.1.2",
+    "caniuse-lite": "^1.0.30001426",
+    "chrome-trace-event": "^1.0.3",
+    "clone-deep": "^4.0.1",
+    "colorette": "^2.0.19",
+    "commander": "^2.20.3",
+    "cross-spawn": "^7.0.3",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "description": ""
+}

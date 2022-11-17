@@ -1,0 +1,5 @@
+//! catatan penting dalam pemanggilan require terkadang function berbeda dengan object
+
+//! ketika require mengunakan {} berbeda dengan mengunakan non objecttergantung sifat module yang di exports
+
+//! pengunaan mengunakan nodejs webpack
